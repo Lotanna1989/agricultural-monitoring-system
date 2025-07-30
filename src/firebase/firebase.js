@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore';
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDESQeEbFFKTfj5OmH0u-XyrE-hOQMlSsc",
-  authDomain: "livestock-monitor-94ce0.firebaseapp.com",
-  projectId: "livestock-monitor-94ce0",
-  storageBucket: "livestock-monitor-94ce0.firebasestorage.app",
-  messagingSenderId: "764405233112",
-  appId: "1:764405233112:web:70aa10e8cf98776426eead",
+   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.REACT_APP_FIREBASE_APP_ID,
   measurementId: "G-2NL2MWNKJW"
 };
 

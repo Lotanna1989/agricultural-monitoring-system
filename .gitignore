@@ -12,3 +12,11 @@ yarn-error.log*
 build/
 dist/
 *.log
+
+# Firebase
+.firebaserc
+firebase.json
+firebaseServiceAccountKey.json
+.firebase/
+firebase-debug.log
+firestore-debug.log
