@@ -18,7 +18,7 @@ const AIChatBotHerder = () => {
 
   const fetchAIResponse = async (newMessages, retryCount = 0) => {
     try {
-      const response = await axios.post('http://localhost:5000/api/chat', {
+      const response = await axios.post('http://localhost:3000/api/chat', {
         messages: newMessages
       });
 

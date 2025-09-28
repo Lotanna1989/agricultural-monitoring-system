@@ -1,6 +1,6 @@
 export async function queryLocalAgroAI(prompt) {
   try {
-    const response = await fetch('http://localhost:11434/api/generate', {
+    const response = await fetch('http:192.168.43.100:5000/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ model: 'tinyllama', prompt, stream: false })
