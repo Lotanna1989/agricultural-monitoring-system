@@ -2,10 +2,10 @@ HEDERA DEVELOPER CERTIFICATE LINK FROM HASHPACK WALLET NFT - https://explore.has
 
 # Agrorithm_IoTDashboard
 
-Livestock Monitor App - Track and monitor livestock using blockchain technology
+Livestock Monitor App - Track and monitor livestock using blockchain technology to prevent farmer herder clashes in Nigeria and other african and global countries, use of Computer vision to identify cattle and trigger automated alerts to relevant livestock and security agenices when it attempts to intrude into private lands, firebase data logs from computer vision on central db and gps logs from our IoT devices, over time an AImodel detects the fulani herdsmen cattle grazing routes and predicts and make intelligent suggestions to prevent further clashes. Other web3, fintech and IoT features for farmers and herders in nigeria and Africa. Thanks to 3MTT DEEPTECH AFRICA AND HEDERA.
 
 
-AgroRithm — Hedera Africa Hackathon 2025
+AgroRithm — 3MTT DEEPTECH HACKATHON BY DSN
 
 Main Track: Track 2 – Fintech for the Future
 Linked Sub-tracks:
